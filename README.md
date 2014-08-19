@@ -12,3 +12,5 @@ V1 - Building our Model (User Model/Collection)
 V2 - Building our Controller (Github/AJAX/User Creation)
 V3 - Building our View (Rendering Users)
 V4 - Celebrate
+
+!(http://imgur.com/KWhGbE7.png)[]
